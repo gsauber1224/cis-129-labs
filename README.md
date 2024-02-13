@@ -1,1 +1,1 @@
-# cis-129-module2
+# cis-129-labs
