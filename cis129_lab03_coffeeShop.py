@@ -36,7 +36,6 @@ print(f"6% tax: ${tax:.2f}")
 print("---------")
 print(f"Total: ${total:.2f}")
 print('*' * 40)
-    *************************************
 
 # Thank the user for patronage and invite them to come back soon
 print("Thanks for choosing My Coffee and Muffin Shop!")
